@@ -1,0 +1,3 @@
+Hi, i just started learning git
+
+Thanks.
