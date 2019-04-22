@@ -2,3 +2,5 @@ git remote add origin: to add github url to the cmd
 gir remote -v: to check if the remote add origin worked
 
 git clone "qwerttyy" : to copy repositories (forking)
+
+git push -u origin master: add extra/additional files to github
